@@ -1,3 +1,5 @@
 First git - 101
 
-This is b0
+This is b0 change that conflicts with master.
+
+This one doesnt conflict with master
